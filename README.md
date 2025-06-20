@@ -1,4 +1,3 @@
-
 # DevOps CI/CD Pipeline Project
 
 This project demonstrates a complete **CI/CD pipeline** for deploying a Node.js + Express web application using **Docker**, **GitHub Actions**, and **AWS EC2**.
